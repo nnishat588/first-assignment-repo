@@ -94,5 +94,44 @@ padding: 110px 79px 0px
 margin: 0px 24px;
 
 }
+.border-three{
+    width: 1922px;
+height: 620px;
+border-radius: 8px;
+background: rgba(229, 
+84, 115, 0.05);
+margin: 500px 0px 300px 
+0px;
+}
+.img-four{
+    width: 318px;
+height: 420px;
+margin: 100px 429px 100px 1175px;
 
+}
+ .hot{
+     color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800; 
+padding: 22px 18px;}
+.it{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+padding: 22px 18px;
+}
+.btn-two{
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+
+}
+.section{
+   justify-content: space-around;
+   
+
+   
 }
