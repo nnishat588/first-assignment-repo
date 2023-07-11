@@ -73,7 +73,7 @@ background: rgba(167, 33, 98, 0.15);
 width: 464px;
 height: 538px;
 padding: 110px 78px 0px 76px;
-margin: 0px 24px;
+margin: 0px  24px 130px 0px;
 }
 .img-two{
     border-radius: 300px 300px 0px 0px;
@@ -81,7 +81,7 @@ background: rgba(5, 151, 160, 0.15);
 width: 464px;
 height: 538px;
 padding: 110px 79px 0px 76px;
-margin: 0px 24px;
+margin: 0px  24px 130px 0px;
 
 }
 .img-three{
@@ -91,47 +91,97 @@ width: 464px;
 height: 538px;
 padding: 110px 79px 0px 
 76px;
-margin: 0px 24px;
+margin: 0px  24px 130px  0px;
 
 }
-.border-three{
-    width: 1922px;
-height: 620px;
-border-radius: 8px;
-background: rgba(229, 
-84, 115, 0.05);
-margin: 500px 0px 300px 
-0px;
-}
-.img-four{
-    width: 318px;
-height: 420px;
-margin: 100px 429px 100px 1175px;
+/* hot deal section */
+.section-three
+{
+    width: 100%;
+height: 920px;
+background-color: rgba(229, 84, 115, 0.05);
+
+display: flex;
+justify-content: space-between;
+
+
 
 }
- .hot{
-     color: #272727;
+.hot{
+    color: #272727;
 font-family: Lato;
 font-size: 40px;
-font-weight: 800; 
-padding: 22px 18px;}
+font-weight: 800;
+padding: 44px 40px;
+}
 .it{
     color: rgba(39, 39, 39, 0.60);
 font-family: Lato;
 font-size: 18px;
 font-weight: 400;
+line-height: 30px;
+width: 594px;
 padding: 22px 18px;
 }
 .btn-two{
-    border-radius: 8px;
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+border-radius: 8px;
 background: #E55473;
 display: inline-flex;
 padding: 20px 43px;
+gap: 10px;
+border: none;
 
 }
-.section{
-   justify-content: space-around;
-   
+.img-four{
+    width: 318px;
+height: 420px;
+margin: 100px 429px 100px 1175px;
+}
+.section-five{
+    width: 1920px;
+height: 4867px;
+background: #FFF;
+}
+.instagram{color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 40px 48px;
+    margin: 128px 870px 132px 870px;
+    
 
+}
+.img-five{
+    width: 342px;
+height: 396px;
+flex-shrink: 0;
+}
+.img-six{
+    width: 342px;
+height: 396px;
+flex-shrink: 0;
+
+}
+.img-seven{
+    width: 342px;
+height: 396px;
+flex-shrink: 0;
+
+}
+.img-eight{
+    width: 342px;
+height: 396px;
+flex-shrink: 0;
+    
+}
+.four-images{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 32px 60px 560px;
    
 }
